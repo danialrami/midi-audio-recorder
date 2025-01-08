@@ -10,21 +10,20 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 986.0, -1006.0, 1323.0, 358.0 ],
+		"rect" : [ 986.0, -1006.0, 1163.0, 315.0 ],
 		"openinpresentation" : 1,
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
 				"box" : 				{
 					"fontsize" : 16.0,
 					"id" : "obj-40",
-					"linecount" : 2,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1007.964682877063751, 81.415935754776001, 381.0, 42.0 ],
+					"patching_rect" : [ 1008.0, 81.415935754776001, 452.0, 24.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 7.079646587371826, 62.367261052131653, 438.938088417053223, 24.0 ],
-					"text" : "Save to: /Users/danielramirez/Downloads/midi-audio-record/"
+					"text" : "Save to: ~/Samples/sampleLibrary/midi-audio-recorder_max/"
 				}
 
 			}
@@ -59,12 +58,13 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-11",
+					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1905.309887826442719, 264.601791203022003, 447.787646651268005, 22.0 ],
-					"text" : "/Users/danielramirez/Downloads/midi-audio-record/2025-01-07_18-35/"
+					"patching_rect" : [ 1905.309887826442719, 264.601791203022003, 447.787646651268005, 35.0 ],
+					"text" : "/Users/danielramirez/Samples/Samples/sampleLibrary/midi-audio-recorder_max/2025-01-07_18-52/"
 				}
 
 			}
@@ -365,8 +365,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 784.3373783826828, 40.963856935501099, 554.0, 35.0 ],
-					"text" : "/Users/danielramirez/Downloads/midi-audio-record/"
+					"patching_rect" : [ 784.3373783826828, 40.963856935501099, 866.0, 35.0 ],
+					"text" : "/Users/danielramirez/Samples/Samples/sampleLibrary/midi-audio-recorder_max/"
 				}
 
 			}
@@ -590,12 +590,13 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-233",
+					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1776.612915933132172, 586.115449845790863, 581.451617062091827, 22.0 ],
-					"text" : "/Users/danielramirez/Downloads/midi-audio-record/2025-01-07_18-35/2025-01-07_18-35-47_ch9-10.aiff"
+					"patching_rect" : [ 1776.612915933132172, 586.115449845790863, 581.451617062091827, 35.0 ],
+					"text" : "/Users/danielramirez/Samples/Samples/sampleLibrary/midi-audio-recorder_max/2025-01-07_18-52/2025-01-07_18-52-54_ch9-10.aiff"
 				}
 
 			}
@@ -647,12 +648,13 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-219",
+					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1725.806463956832886, 464.536161541938782, 566.935487926006317, 22.0 ],
-					"text" : "/Users/danielramirez/Downloads/midi-audio-record/2025-01-07_18-35/2025-01-07_18-35-47_ch1-2.aiff"
+					"patching_rect" : [ 1725.806463956832886, 464.536161541938782, 566.935487926006317, 35.0 ],
+					"text" : "/Users/danielramirez/Samples/Samples/sampleLibrary/midi-audio-recorder_max/2025-01-07_18-52/2025-01-07_18-52-54_ch1-2.aiff"
 				}
 
 			}
@@ -1528,12 +1530,13 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-104",
+					"linecount" : 2,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1735.483883380889893, 361.115448236465454, 530.645165085792542, 22.0 ],
-					"text" : "/Users/danielramirez/Downloads/midi-audio-record/2025-01-07_18-35/2025-01-07_18-35-47.mid"
+					"patching_rect" : [ 1735.483883380889893, 361.115448236465454, 530.645165085792542, 35.0 ],
+					"text" : "/Users/danielramirez/Samples/Samples/sampleLibrary/midi-audio-recorder_max/2025-01-07_18-52/2025-01-07_18-52-54.mid"
 				}
 
 			}
@@ -1654,7 +1657,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 536.144598126411438, 281.927721261978149, 50.0, 22.0 ],
-					"text" : "54"
+					"text" : "83"
 				}
 
 			}
@@ -1927,7 +1930,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 26.506025075912476, 501.204837799072266, 50.0, 22.0 ],
-					"text" : "54"
+					"text" : "83"
 				}
 
 			}

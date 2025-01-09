@@ -22,7 +22,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1008.0, 81.415935754776001, 452.0, 24.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 7.079646587371826, 62.367261052131653, 438.938088417053223, 24.0 ],
+					"presentation_rect" : [ 7.079646587371826, 62.367261052131653, 439.0, 24.0 ],
 					"text" : "Save to: ~/Samples/sampleLibrary/midi-audio-recorder_max/"
 				}
 
@@ -64,7 +64,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1905.309887826442719, 264.601791203022003, 447.787646651268005, 35.0 ],
-					"text" : "/Users/danielramirez/Samples/Samples/sampleLibrary/midi-audio-recorder_max/2025-01-07_18-52/"
+					"text" : "/Users/danielramirez/Samples/Samples/sampleLibrary/midi-audio-recorder_max/2025-01-08_10-39/"
 				}
 
 			}
@@ -269,7 +269,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 219.277116537094116, 24.85900342464447, 413.0, 47.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 7.079646587371826, 7.079646587371826, 399.0, 47.0 ],
+					"presentation_rect" : [ 7.0, 7.079646587371826, 404.0, 47.0 ],
 					"text" : "MIDI & Audio Recorder"
 				}
 
@@ -596,7 +596,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1776.612915933132172, 586.115449845790863, 581.451617062091827, 35.0 ],
-					"text" : "/Users/danielramirez/Samples/Samples/sampleLibrary/midi-audio-recorder_max/2025-01-07_18-52/2025-01-07_18-52-54_ch9-10.aiff"
+					"text" : "/Users/danielramirez/Samples/Samples/sampleLibrary/midi-audio-recorder_max/2025-01-08_10-39/2025-01-08_10-39-52_ch9-10.aiff"
 				}
 
 			}
@@ -654,7 +654,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1725.806463956832886, 464.536161541938782, 566.935487926006317, 35.0 ],
-					"text" : "/Users/danielramirez/Samples/Samples/sampleLibrary/midi-audio-recorder_max/2025-01-07_18-52/2025-01-07_18-52-54_ch1-2.aiff"
+					"text" : "/Users/danielramirez/Samples/Samples/sampleLibrary/midi-audio-recorder_max/2025-01-08_10-39/2025-01-08_10-39-52_ch1-2.aiff"
 				}
 
 			}
@@ -777,7 +777,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1048.192809820175171, 343.373506665229797, 301.0, 38.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 848.672634661197662, 157.057534158229828, 301.0, 38.0 ]
+					"presentation_rect" : [ 853.0, 157.381661338731647, 301.0, 38.0 ]
 				}
 
 			}
@@ -790,7 +790,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1048.192809820175171, 249.397599577903748, 301.0, 32.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 848.672634661197662, 62.367261052131653, 301.0, 32.0 ]
+					"presentation_rect" : [ 853.0, 63.381661338731647, 301.0, 32.0 ]
 				}
 
 			}
@@ -803,7 +803,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1048.192809820175171, 443.373510360717773, 301.0, 43.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 848.672634661197662, 257.057542204856873, 301.0, 43.0 ],
+					"presentation_rect" : [ 853.0, 257.381661338731647, 301.0, 43.0 ],
 					"sono" : 1
 				}
 
@@ -816,7 +816,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1048.192809820175171, 293.975914478302002, 301.0, 38.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 848.672634661197662, 107.500008046627045, 301.0, 38.0 ]
+					"presentation_rect" : [ 853.0, 108.381661338731647, 301.0, 38.0 ]
 				}
 
 			}
@@ -829,7 +829,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1048.192809820175171, 201.204826712608337, 301.0, 32.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 848.672634661197662, 14.579646587371826, 301.0, 32.0 ]
+					"presentation_rect" : [ 853.0, 15.381661338731647, 301.0, 32.0 ]
 				}
 
 			}
@@ -842,7 +842,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1048.192809820175171, 393.975918173789978, 301.0, 43.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 848.672634661197662, 207.500016093254089, 301.0, 43.0 ],
+					"presentation_rect" : [ 853.0, 208.381661338731647, 301.0, 43.0 ],
 					"sono" : 1
 				}
 
@@ -855,7 +855,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 730.120508909225464, 343.373506665229797, 301.0, 38.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 530.088538229465485, 157.057534158229828, 301.0, 38.0 ]
+					"presentation_rect" : [ 535.0, 157.381661338731647, 301.0, 38.0 ]
 				}
 
 			}
@@ -868,7 +868,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 730.120508909225464, 249.397599577903748, 301.0, 32.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 530.088538229465485, 62.367261052131653, 301.0, 32.0 ]
+					"presentation_rect" : [ 535.0, 63.381661338731647, 301.0, 32.0 ]
 				}
 
 			}
@@ -881,7 +881,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 730.120508909225464, 443.373510360717773, 301.0, 43.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 530.088538229465485, 257.057542204856873, 301.0, 43.0 ],
+					"presentation_rect" : [ 535.0, 257.381661338731647, 301.0, 43.0 ],
 					"sono" : 1
 				}
 
@@ -918,7 +918,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 730.120508909225464, 293.975914478302002, 301.0, 38.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 530.088538229465485, 107.500008046627045, 301.0, 38.0 ]
+					"presentation_rect" : [ 535.0, 108.381661338731647, 301.0, 38.0 ]
 				}
 
 			}
@@ -931,7 +931,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 730.120508909225464, 201.204826712608337, 301.0, 32.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 530.088538229465485, 14.579646587371826, 301.0, 32.0 ]
+					"presentation_rect" : [ 535.0, 15.381661338731647, 301.0, 32.0 ]
 				}
 
 			}
@@ -944,7 +944,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 730.120508909225464, 393.975918173789978, 301.0, 43.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 530.088538229465485, 207.500016093254089, 301.0, 43.0 ],
+					"presentation_rect" : [ 535.0, 208.381661338731647, 301.0, 43.0 ],
 					"sono" : 1
 				}
 
@@ -1517,7 +1517,7 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-39",
-					"items" : [ "IAC Driver Bus 1", ",", "Nord Stage 3 MIDI Output", ",", "mio10 DIN 1", ",", "mio10 DIN 2", ",", "mio10 DIN 3", ",", "mio10 DIN 4", ",", "mio10 DIN 5", ",", "mio10 DIN 6", ",", "mio10 DIN 7", ",", "mio10 DIN 8", ",", "mio10 DIN 9", ",", "mio10 DIN 10", ",", "mio10 HST 1", ",", "mio10 HST 2", ",", "mio10 HST 3", ",", "mio10 HST 4-10", ",", "mio10 ETH 1-4", ",", "mio10 USB 2", ",", "Vienna Instruments MIDI", ",", "Logic Pro Virtual Out", ",", "to Max 1", ",", "to Max 2" ],
+					"items" : [ "IAC Driver Bus 1", ",", "Nord Stage 3 MIDI Output", ",", "mio10 DIN 1", ",", "mio10 DIN 2", ",", "mio10 DIN 3", ",", "mio10 DIN 4", ",", "mio10 DIN 5", ",", "mio10 DIN 6", ",", "mio10 DIN 7", ",", "mio10 DIN 8", ",", "mio10 DIN 9", ",", "mio10 DIN 10", ",", "mio10 HST 1", ",", "mio10 HST 2", ",", "mio10 HST 3", ",", "mio10 HST 4-10", ",", "mio10 ETH 1-4", ",", "mio10 USB 2", ",", "Vienna Instruments MIDI", ",", "to Max 1", ",", "to Max 2", ",", "Logic Pro Virtual Out" ],
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -1536,7 +1536,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1735.483883380889893, 361.115448236465454, 530.645165085792542, 35.0 ],
-					"text" : "/Users/danielramirez/Samples/Samples/sampleLibrary/midi-audio-recorder_max/2025-01-07_18-52/2025-01-07_18-52-54.mid"
+					"text" : "/Users/danielramirez/Samples/Samples/sampleLibrary/midi-audio-recorder_max/2025-01-08_10-39/2025-01-08_10-39-52.mid"
 				}
 
 			}
@@ -1657,7 +1657,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 536.144598126411438, 281.927721261978149, 50.0, 22.0 ],
-					"text" : "83"
+					"text" : "108"
 				}
 
 			}
@@ -1930,7 +1930,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 26.506025075912476, 501.204837799072266, 50.0, 22.0 ],
-					"text" : "83"
+					"text" : "108"
 				}
 
 			}
@@ -2096,12 +2096,13 @@
 					"mode" : 1,
 					"numinlets" : 2,
 					"numoutlets" : 2,
+					"offset" : 22,
 					"outlettype" : [ "int", "int" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 208.433742642402649, 201.204826712608337, 510.0, 45.0 ],
+					"patching_rect" : [ 208.433742642402649, 201.204826712608337, 520.0, 45.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 7.079646587371826, 91.150449812412262, 510.0, 45.0 ],
-					"range" : 88
+					"presentation_rect" : [ 7.0, 94.0, 520.0, 45.0 ],
+					"range" : 89
 				}
 
 			}
@@ -3510,11 +3511,11 @@
 
 			}
  ],
-		"originid" : "pat-4",
+		"originid" : "pat-18",
 		"dependency_cache" : [ 			{
 				"name" : "Asset-1.svg",
 				"bootpath" : "~/Obsidian/ore/Notes/Work/LLC/LUFS_from-Ale/LUFS",
-				"patcherrelativepath" : "../../Obsidian/ore/Notes/Work/LLC/LUFS_from-Ale/LUFS",
+				"patcherrelativepath" : "../../../../Work/LLC/LUFS_from-Ale/LUFS",
 				"type" : "svg",
 				"implicit" : 1
 			}

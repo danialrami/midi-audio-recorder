@@ -52,6 +52,3 @@ A simple Max/MSP patch that captures MIDI and audio simultaneously with minimal 
 
 ## Dependencies
 - createfolder.mxo external
-
-## License
-MIT License

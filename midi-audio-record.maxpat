@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 985.0, -1006.0, 1163.0, 310.0 ],
+		"rect" : [ 985.0, -1006.0, 1159.0, 308.0 ],
 		"openinpresentation" : 1,
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
@@ -88,7 +88,7 @@
 					"patching_rect" : [ 1012.602662265300751, 727.868831634521484, 200.0, 42.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 322.307742118835449, 150.459012031555176, 200.0, 42.0 ],
-					"text" : "00:01:46.773"
+					"text" : "00:00:00.00"
 				}
 
 			}
@@ -817,7 +817,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1905.309887826442719, 264.601791203022003, 447.787646651268005, 35.0 ],
-					"text" : "/Users/danielramirez/Samples/Samples/sampleLibrary/midi-audio-recorder_max/2025-01-11_11-31/"
+					"text" : "/Users/danielramirez/Samples/Samples/sampleLibrary/midi-audio-recorder_max/2025-01-14_11-04/"
 				}
 
 			}
@@ -1346,8 +1346,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1776.612915933132172, 586.115449845790863, 581.451617062091827, 35.0 ],
-					"text" : "/Users/danielramirez/Samples/Samples/sampleLibrary/midi-audio-recorder_max/2025-01-11_11-31/2025-01-11_11-31-14_ch9-10.wav"
+					"patching_rect" : [ 1776.612915933132172, 586.115449845790863, 582.0, 35.0 ],
+					"text" : "/Users/danielramirez/Samples/Samples/sampleLibrary/midi-audio-recorder_max/2025-01-14_11-04/2025-01-14_11-04-28_ch9-10.wav"
 				}
 
 			}
@@ -1405,7 +1405,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1725.806463956832886, 464.536161541938782, 566.935487926006317, 35.0 ],
-					"text" : "/Users/danielramirez/Samples/Samples/sampleLibrary/midi-audio-recorder_max/2025-01-11_11-31/2025-01-11_11-31-14_ch1-2.wav"
+					"text" : "/Users/danielramirez/Samples/Samples/sampleLibrary/midi-audio-recorder_max/2025-01-14_11-04/2025-01-14_11-04-28_ch1-2.wav"
 				}
 
 			}
@@ -2268,7 +2268,7 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-39",
-					"items" : [ "IAC Driver Bus 1", ",", "Nord Stage 3 MIDI Output", ",", "mio10 DIN 1", ",", "mio10 DIN 2", ",", "mio10 DIN 3", ",", "mio10 DIN 4", ",", "mio10 DIN 5", ",", "mio10 DIN 6", ",", "mio10 DIN 7", ",", "mio10 DIN 8", ",", "mio10 DIN 9", ",", "mio10 DIN 10", ",", "mio10 HST 1", ",", "mio10 HST 2", ",", "mio10 HST 3", ",", "mio10 HST 4-10", ",", "mio10 ETH 1-4", ",", "mio10 USB 2", ",", "Vienna Instruments MIDI", ",", "to Max 1", ",", "to Max 2", ",", "Logic Pro Virtual Out" ],
+					"items" : [ "IAC Driver Bus 1", ",", "Vienna Instruments MIDI", ",", "to Max 1", ",", "to Max 2", ",", "Logic Pro Virtual Out", ",", "Metropolix", ",", "mio10 DIN 1", ",", "mio10 DIN 2", ",", "mio10 DIN 3", ",", "mio10 DIN 4", ",", "mio10 DIN 5", ",", "mio10 DIN 6", ",", "mio10 DIN 7", ",", "mio10 DIN 8", ",", "mio10 DIN 9", ",", "mio10 DIN 10", ",", "mio10 HST 1", ",", "mio10 HST 2", ",", "mio10 HST 3", ",", "mio10 HST 4-10", ",", "mio10 ETH 1-4", ",", "mio10 USB 2", ",", "MiSW F8R", ",", "Nord Stage 3 MIDI Output" ],
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -2289,7 +2289,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1735.483883380889893, 361.115448236465454, 530.645165085792542, 35.0 ],
-					"text" : "/Users/danielramirez/Samples/Samples/sampleLibrary/midi-audio-recorder_max/2025-01-11_11-31/2025-01-11_11-31-14.mid"
+					"text" : "/Users/danielramirez/Samples/Samples/sampleLibrary/midi-audio-recorder_max/2025-01-14_11-04/2025-01-14_11-04-28.mid"
 				}
 
 			}
@@ -2410,7 +2410,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 536.144598126411438, 281.927721261978149, 50.0, 22.0 ],
-					"text" : "25"
+					"text" : "64"
 				}
 
 			}
@@ -2683,7 +2683,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 26.506025075912476, 501.204837799072266, 50.0, 22.0 ],
-					"text" : "25"
+					"text" : "44"
 				}
 
 			}
